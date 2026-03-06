@@ -17,7 +17,7 @@
         </classes>
     </test>
 
-    <!--<test verbose="2" preserve-order="true" name="Chrometest">
+    <!--<test verbose="2" preserve-order="true" name="Chrometest2">
         <parameter name="os" value="Linux"/>
         <parameter name="browser" value="firefox"/>
         <classes>
